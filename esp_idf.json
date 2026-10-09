@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://dl.espressif.com/dl/schemas/esp_idf",
+  "_comment": "Configuration file for ESP-IDF IDEs.",
+  "_warning": "Use / or \\ when specifying path. Single backslash is not allowed by JSON format.",
+  "gitPath": "/usr/bin/git",
+  "idfToolsPath": "/Users/joshc/coding-projects/GreenSense-V2-Fleet-Environment-Monitoring-System",
+  "idfSelectedId": "esp-idf-4f4297c97c792871de869926b70b79f5",
+  "idfInstalled": {
+    "esp-idf-4f4297c97c792871de869926b70b79f5": {
+      "version": "6.1.0",
+      "python": "/Users/joshc/coding-projects/GreenSense-V2-Fleet-Environment-Monitoring-System/python_env/idf6.1_py3.12_env/bin/python",
+      "path": "/Users/joshc/esp/v6.1/esp-idf"
+    }
+  }
+}

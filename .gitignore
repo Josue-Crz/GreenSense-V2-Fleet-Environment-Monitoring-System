@@ -1,3 +1,8 @@
 build/
 sdkconfig
 sdkconfig.old
+tools
+dist
+.vscode
+python_env/
+espidf.constraints.v6.1.txt
